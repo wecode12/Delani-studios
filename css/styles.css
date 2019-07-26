@@ -12,3 +12,102 @@
 .del{
     display: none;
 }
+
+ #post{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color:blue;
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #pest{
+position:relative;
+
+    
+} 
+
+#you{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color:blue;
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #use{
+position:relative;
+
+    
+} 
+
+#done{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color: blueviolet;
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #well{
+position:relative;
+
+    
+} 
+
+
+#say{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color: darkgreen;
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #said{
+position:relative;
+
+    
+} 
+
+#sa{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color: rgb(83, 8, 102);
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #nice{
+position:relative;
+
+    
+} 
+
+#s{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color: rgb(83, 8, 102);
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #new{
+position:relative;
+
+    
+} 
+
+#joy{
+    position: absolute;
+    text-align: center;
+font-size: 80px;
+color: rgb(83, 8, 102);
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #ice{
+position:relative;
+
+    
+} 
