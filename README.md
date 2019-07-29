@@ -28,7 +28,7 @@ tel:0783891444
 ######  License:
 
 
-copyright (c)2019 Joselyne
+copyright (c)2019 Delani-studios
 =======
 
 
