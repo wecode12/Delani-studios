@@ -14,24 +14,25 @@
     display: none;
 }
 
- #post{
+ #u{
     position: absolute;
     text-align: center;
-font-size: 80px;
+font-size: 35px;
 color:blue;
 padding-top: 50px;
 padding-left: 20px; 
 }
- #pest{
+ #del{
 position:relative;
 
     
 } 
 
+
 #you{
     position: absolute;
     text-align: center;
-font-size: 80px;
+font-size: 35px;
 color:blue;
 padding-top: 50px;
 padding-left: 20px; 
@@ -39,14 +40,15 @@ padding-left: 20px;
  #use{
 position:relative;
 
+
     
 } 
 
 #done{
     position: absolute;
     text-align: center;
-font-size: 80px;
-color: blueviolet;
+font-size: 35px;
+color:blue;
 padding-top: 50px;
 padding-left: 20px; 
 }
@@ -60,8 +62,8 @@ position:relative;
 #say{
     position: absolute;
     text-align: center;
-font-size: 80px;
-color: darkgreen;
+font-size: 35px;
+color:blue;
 padding-top: 50px;
 padding-left: 20px; 
 }
@@ -74,13 +76,14 @@ position:relative;
 #sa{
     position: absolute;
     text-align: center;
-font-size: 80px;
-color: rgb(83, 8, 102);
+font-size: 35px;
+color:blue;
 padding-top: 50px;
 padding-left: 20px; 
 }
  #nice{
 position:relative;
+
 
     
 } 
@@ -88,13 +91,14 @@ position:relative;
 #s{
     position: absolute;
     text-align: center;
-font-size: 80px;
-color: rgb(83, 8, 102);
+font-size: 35px;
+color:blue;
 padding-top: 50px;
 padding-left: 20px; 
 }
  #new{
 position:relative;
+
 
     
 } 
@@ -102,13 +106,24 @@ position:relative;
 #joy{
     position: absolute;
     text-align: center;
-font-size: 80px;
-color: rgb(83, 8, 102);
+font-size: 35px;
+color:blue;
 padding-top: 50px;
 padding-left: 20px; 
 }
  #ice{
 position:relative;
 
+
     
 } 
+#post{
+    position: absolute;
+    text-align: center;
+font-size: 35px;
+color:blue;
+padding-top: 50px;
+padding-left: 20px; 
+}
+ #pest{
+position:relative;
