@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Delani-studios:
 ##  Author
 Joselyne Tusingwire:
@@ -28,3 +29,6 @@ tel:0783891444
 
 
 copyright (c)2019 Joselyne
+=======
+# Delani-studios
+>>>>>>> b4901c39ddbdf098b70cf08c483673b0a86133f0
