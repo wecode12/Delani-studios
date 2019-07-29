@@ -27,7 +27,7 @@ email:joselynetusingwire@gmail.com
 tel:0783891444
 
 ######  License:
-https://wecode12.github.io/Delani-studios/
+
 
 copyright (c)2019 Delani-studios
 
