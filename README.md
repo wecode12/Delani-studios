@@ -4,6 +4,7 @@
 Joselyne Tusingwire:
 
 ###  DESCRPTION:
+
 Our approach unifies design, development and
 product management to create exceptional products.
 We start each project by understanding your business goals,
@@ -29,6 +30,6 @@ tel:0783891444
 
 
 copyright (c)2019 Delani-studios
-=======
+
 
 
